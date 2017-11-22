@@ -1,3 +1,17 @@
 /*
  * Estilos de tu proyecto
  */
+body { margin: 0;
+	   padding: 0;
+
+  }
+
+.portada {background-image:url('../assets/images/hero.gif');
+width: auto;
+height: 565px;
+color: white;
+}
+
+nav {
+  float:right;
+}
